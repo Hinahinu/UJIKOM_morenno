@@ -1,0 +1,61 @@
+/* Login */
+.text1 {
+    font-size: 36px;
+    color: #363062;
+    font-weight: bold;
+}
+
+.text2 {
+    font-size: 18px;
+    color: #4D4C7D;
+    font-weight: bold;
+}
+
+.text3 {
+    font-size: 18px;
+    color: #363062;
+    font-weight: bold;
+}
+
+.text4 {
+    font-size: 16px;
+    color: #4D4C7D;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text5 {
+    font-size: 18px;
+    color: #4D4C7D;
+}
+
+.text6 {
+    font-size: 14px;
+    color: #4D4C7D;
+}
+
+.text7 {
+    font-size: 16px;
+    color: #363062;
+    font-weight: bold;
+}
+
+.text8 {
+    font-size: 28px;
+    color: #363062;
+    font-weight: bold;
+    text-align: center;
+}
+
+.text_onbottom {
+    font-size: 18px;
+    color: #363062;
+    font-weight: bold;
+    border-bottom: 3px solid #363062;
+}
+
+.text_offbottom {
+    font-size: 18px;
+    color: #363062;
+    font-weight: bold;
+}

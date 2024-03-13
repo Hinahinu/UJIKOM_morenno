@@ -1,0 +1,37 @@
+.bg_cashier {
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.box_product {
+    background-color: #f5f5f5;
+    border-radius: 18px;
+    box-shadow: 0 0 4px rgba(77, 76, 125, 0.25);
+}
+
+.box_cashier {
+    background-color: #f5f5f5;
+    box-shadow: -4px 0 4px rgba(77, 76, 125, 0.08);
+    height: 100vh;
+}
+
+.button_cashier {
+    font-size: 24px;
+    color: #F99417;
+    background-color: #f5f5f5;
+    width: 442px;
+    border-radius: 14px;
+    font-weight: bold;
+    border: 1px solid #F99417;
+}
+
+.button_dropdown {
+    font-size: 16px;
+    color: #F99417;
+    width: 152px;
+    justify-content: center;
+    background-color: #fff;
+    border-radius: 14px;
+    font-weight: bold;
+    border: 1px solid #F99417;
+}

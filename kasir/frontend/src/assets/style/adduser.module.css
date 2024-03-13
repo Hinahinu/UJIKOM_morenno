@@ -1,0 +1,18 @@
+.bg_adduser {
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.button_adduser {
+    font-size: 16px;
+    color: #F99417;
+    background-color: #f5f5f5;
+    border-radius: 14px;
+    width: 186px;
+    font-weight: bold;
+    border: 1px solid #F99417;
+}
+
+.custom_table {
+    background-color: #f5f5f5;
+}

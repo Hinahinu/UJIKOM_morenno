@@ -1,0 +1,36 @@
+.bg_login {
+    background-color: #f5f5f5;
+    height: 100vh;
+}
+
+.button1 {
+    background-color: #4D4C7D;
+    color: white;
+    padding: 0.35rem;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    text-align: center;
+    font-weight: bold;
+    border: 0;
+}
+
+.button2 {
+    background-color: #ffffff;
+    color: #4D4C7D;
+    padding: 0.35rem;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    text-align: center;
+    font-weight: bold;
+    border: 0;
+}
+
+.button3 {
+    background-color: #ffffff;
+    color: #4D4C7D;
+    border: 1px solid #4D4C7D;
+    padding: 0.35rem;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bold;
+}

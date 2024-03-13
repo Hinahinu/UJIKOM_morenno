@@ -1,0 +1,37 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hinahinu/UJIKOM_morenno.git"
+  },
+  "keywords": [
+    "morenno"
+  ],
+  "author": "Morenno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hinahinu/UJIKOM_morenno/issues"
+  },
+  "homepage": "https://github.com/Hinahinu/UJIKOM_morenno#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "easyinvoice": "^3.0.47",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.0",
+    "pdfkit": "^0.14.0",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.1"
+  }
+}

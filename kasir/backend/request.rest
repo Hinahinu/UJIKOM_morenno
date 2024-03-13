@@ -1,0 +1,10 @@
+GET http://localhost:5000/sold/2
+
+###
+GET http://localhost:5000/counts/2
+
+###
+GET http://localhost:5000/users/counts/2
+
+###
+GET http://localhost:5000/pengunjung/2
